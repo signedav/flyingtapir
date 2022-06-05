@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-03T22:28:28+02:00
+modified: 2022-06-05T20:14:00+02:00
 ---
 
 # Packliste
@@ -11,6 +11,7 @@ modified: 2022-06-03T22:28:28+02:00
 - Restaurantbox
 - Nachtlicht
 - 10 Windeln
+- Badehosen
 
 ## Lynn + Amélie
 - 70 Windeln
@@ -20,6 +21,9 @@ modified: 2022-06-03T22:28:28+02:00
 - Medis
 - Wanderschuhe
 - Sonnencreme
+- Sonnenbrille
+- Sonnenhut
+- Mütze
 - Wagen
 - Helm
 - Kicki?
@@ -28,6 +32,10 @@ modified: 2022-06-03T22:28:28+02:00
 - Badewindeln
 - ultralight Tüchli
 - Badetüchli
+- Nudel
+- Luftmatraze
+- Flügeli
+- Pistole
 
 ## Schlafen
 - Lampe
