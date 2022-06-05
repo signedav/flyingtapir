@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-05T20:48:11+02:00
+modified: 2022-06-05T21:07:55+02:00
 ---
 
 # Packliste
@@ -12,6 +12,7 @@ modified: 2022-06-05T20:48:11+02:00
 - Nachtlicht
 - 10 Windeln
 - Badehosen
+- Alltagskleider
 
 ## Lynn + Amélie
 - 70 Windeln
@@ -21,12 +22,15 @@ modified: 2022-06-05T20:48:11+02:00
 - Medis
 - Wanderschuhe
 - Sonnencreme
-- Sonnenbrille
-- Sonnenhut
+- Sonnenbrille alle
+- Sonnenhut Kinder/Christine
 - Mütze
 - Wagen
 - Helm
+- Regenkleider Lily
 - Kicki?
+- Rucksäcke
+- Tragehilfe
 
 ## Baden
 - Badewindeln
