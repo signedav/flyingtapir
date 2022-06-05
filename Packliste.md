@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-05T20:14:00+02:00
+modified: 2022-06-05T20:48:11+02:00
 ---
 
 # Packliste
@@ -39,3 +39,6 @@ modified: 2022-06-05T20:14:00+02:00
 
 ## Schlafen
 - Lampe
+
+## Elektro
+- Auslandstecker
