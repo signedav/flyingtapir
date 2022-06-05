@@ -1,24 +1,26 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-05T21:17:47+02:00
+modified: 2022-06-05T21:24:44+02:00
 ---
 
 # Packliste
 
+# Packen
+
 ## Lily
 - Paul und Buk
 - Toniebox (Auto)
-- Restaurantbox
+- Restaurantbox neues Zeug
 - Nachtlicht
 - 10 Windeln
-- Badehosen
 - Alltagskleider
-- Restaurantböxli mit neuem Zeug
+- Piji
 - Tiptoi? Batterien
-- Regenkleider
 
 ## Lynn + Amélie
 - 70 Windeln
+- Alltagskleider
+- Piji
 
 ## Draussen
 - Apotheke
@@ -36,6 +38,7 @@ modified: 2022-06-05T21:17:47+02:00
 - Tragehilfe
 
 ## Baden
+- Badehosen
 - Badewindeln
 - ultralight Tüchli
 - Badetüchli
@@ -46,7 +49,24 @@ modified: 2022-06-05T21:17:47+02:00
 - Pistole
 
 ## Schlafen
-- Lampe
+- Lampe aus Bad
+
+## Essen
+- Trinkflaschen
+- Brei / Smoothies
+- Lätzchen
+
+## Hygiene
+- Nessesär
+- Linsen
+- Medis Heuschnupfen
 
 ## Elektro
 - Auslandstecker
+- Tablet
+- Ladegeräte
+- Handys
+
+# Todos
+- Selm / Vroni
+- Cristina
