@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-05T21:07:55+02:00
+modified: 2022-06-05T21:17:47+02:00
 ---
 
 # Packliste
@@ -13,6 +13,9 @@ modified: 2022-06-05T21:07:55+02:00
 - 10 Windeln
 - Badehosen
 - Alltagskleider
+- Restaurantböxli mit neuem Zeug
+- Tiptoi? Batterien
+- Regenkleider
 
 ## Lynn + Amélie
 - 70 Windeln
@@ -39,6 +42,7 @@ modified: 2022-06-05T21:07:55+02:00
 - Nudel
 - Luftmatraze
 - Flügeli
+- Badeschuhe
 - Pistole
 
 ## Schlafen
