@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T10:23:23+02:00
+modified: 2022-06-06T11:10:09+02:00
 ---
 
 # Packliste
@@ -10,12 +10,12 @@ modified: 2022-06-06T10:23:23+02:00
 ## Lily
 X Paul und Buk
 X Toniebox (Auto)
-- Restaurantbox neues Zeug
+X Restaurantbox neues Zeug
 X Nachtlicht
 X 10 Windeln
 X Alltagskleider
 X Piji
-- Tiptoi? Batterien
+X Tiptoi? Batterien
 
 ## Lynn + Amélie
 X 70 Windeln
