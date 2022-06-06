@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-05T21:24:44+02:00
+modified: 2022-06-06T08:10:58+02:00
 ---
 
 # Packliste
@@ -33,6 +33,7 @@ modified: 2022-06-05T21:24:44+02:00
 - Wagen
 - Helm
 - Regenkleider Lily
+- Regenkleider C und D
 - Kicki?
 - Rucksäcke
 - Tragehilfe
@@ -60,12 +61,18 @@ modified: 2022-06-05T21:24:44+02:00
 - Nessesär
 - Linsen
 - Medis Heuschnupfen
+- Medis Fueber, Kotz
+- Desinfektionsmittel
+- Nastücher
 
 ## Elektro
 - Auslandstecker
 - Tablet
 - Ladegeräte
 - Handys
+
+## Docs
+- IDs
 
 # Todos
 - Selm / Vroni
