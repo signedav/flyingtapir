@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T10:22:30+02:00
+modified: 2022-06-06T10:22:46+02:00
 ---
 
 # Packliste
@@ -35,7 +35,7 @@ X Helm
 X Regenkleider Lily
 X Regenkleider C und D
 X Rucksäcke
-XTragehilfe
+X Tragehilfe
 
 ## Baden
 X Badehosen
