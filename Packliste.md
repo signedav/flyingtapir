@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T10:13:04+02:00
+modified: 2022-06-06T10:22:30+02:00
 ---
 
 # Packliste
@@ -38,15 +38,15 @@ X Rucksäcke
 XTragehilfe
 
 ## Baden
-- Badehosen
-- Badewindeln
-- ultralight Tüchli
-- Badetüchli
-- Nudel
-- Luftmatraze
-- Flügeli
-- Badeschuhe
-- Pistole
+X Badehosen
+X Badewindeln
+X ultralight Tüchli
+X Badetüchli
+X Nudel
+X Luftmatraze
+X Flügeli
+X Badeschuhe
+X Pistole
 
 ## Schlafen
 X Lampe aus Bad
