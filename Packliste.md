@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T09:56:18+02:00
+modified: 2022-06-06T09:57:06+02:00
 ---
 
 # Packliste
@@ -27,10 +27,10 @@ X Apotheke
 X Medis
 X Wanderschuhe
 X Sonnencreme
-- Sonnenbrille alle
+X Sonnenbrille alle
 - Sonnenhut Kinder/Christine
 - Mütze
-- Wagen
+X Wagen
 X Helm
 X Regenkleider Lily
 X Regenkleider C und D
