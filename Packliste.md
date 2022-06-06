@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T10:02:05+02:00
+modified: 2022-06-06T10:13:04+02:00
 ---
 
 # Packliste
@@ -19,8 +19,8 @@ X Piji
 
 ## Lynn + Amélie
 X 70 Windeln
-- Alltagskleider
-- Piji
+X Alltagskleider
+X Piji
 
 ## Draussen
 X Apotheke
@@ -28,8 +28,8 @@ X Medis
 X Wanderschuhe
 X Sonnencreme
 X Sonnenbrille alle
-- Sonnenhut Kinder/Christine
-- Mütze
+X Sonnenhut Kinder/Christine
+X Mütze
 X Wagen
 X Helm
 X Regenkleider Lily
@@ -49,7 +49,7 @@ XTragehilfe
 - Pistole
 
 ## Schlafen
-- Lampe aus Bad
+X Lampe aus Bad
 
 ## Essen
 - Trinkflaschen
@@ -65,10 +65,10 @@ X Desinfektionsmittel
 X Nastücher
 
 ## Elektro
-- Auslandstecker
-- Tablet
-- Ladegeräte
-- Handys
+X Auslandstecker
+X Tablet
+X Ladegeräte
+X Handys
 
 ## Docs
 X IDs
