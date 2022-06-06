@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T08:10:58+02:00
+modified: 2022-06-06T09:56:18+02:00
 ---
 
 # Packliste
@@ -8,35 +8,34 @@ modified: 2022-06-06T08:10:58+02:00
 # Packen
 
 ## Lily
-- Paul und Buk
-- Toniebox (Auto)
+X Paul und Buk
+X Toniebox (Auto)
 - Restaurantbox neues Zeug
-- Nachtlicht
-- 10 Windeln
-- Alltagskleider
-- Piji
+X Nachtlicht
+X 10 Windeln
+X Alltagskleider
+X Piji
 - Tiptoi? Batterien
 
 ## Lynn + Amélie
-- 70 Windeln
+X 70 Windeln
 - Alltagskleider
 - Piji
 
 ## Draussen
-- Apotheke
-- Medis
-- Wanderschuhe
-- Sonnencreme
+X Apotheke
+X Medis
+X Wanderschuhe
+X Sonnencreme
 - Sonnenbrille alle
 - Sonnenhut Kinder/Christine
 - Mütze
 - Wagen
-- Helm
-- Regenkleider Lily
-- Regenkleider C und D
-- Kicki?
-- Rucksäcke
-- Tragehilfe
+X Helm
+X Regenkleider Lily
+X Regenkleider C und D
+X Rucksäcke
+XTragehilfe
 
 ## Baden
 - Badehosen
@@ -63,7 +62,7 @@ modified: 2022-06-06T08:10:58+02:00
 - Medis Heuschnupfen
 - Medis Fueber, Kotz
 - Desinfektionsmittel
-- Nastücher
+X Nastücher
 
 ## Elektro
 - Auslandstecker
@@ -72,7 +71,7 @@ modified: 2022-06-06T08:10:58+02:00
 - Handys
 
 ## Docs
-- IDs
+X IDs
 
 # Todos
 - Selm / Vroni
