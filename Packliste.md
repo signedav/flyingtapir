@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T09:57:06+02:00
+modified: 2022-06-06T10:02:05+02:00
 ---
 
 # Packliste
@@ -58,10 +58,10 @@ XTragehilfe
 
 ## Hygiene
 - Nessesär
-- Linsen
-- Medis Heuschnupfen
-- Medis Fueber, Kotz
-- Desinfektionsmittel
+X Linsen
+X Medis Heuschnupfen
+X  Medis Fueber, Kotz
+X Desinfektionsmittel
 X Nastücher
 
 ## Elektro
