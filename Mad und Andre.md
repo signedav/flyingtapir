@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-16T21:42:05+02:00
+modified: 2022-06-16T21:49:40+02:00
 ---
 
 # Mad und Andrea
@@ -30,6 +30,18 @@ Doch blöderweise hatten die Faultierfreunde, die jeweils zu Besuch kamen, um Ma
 
 Das Faultierweibchen wäre dem Faultier namens Mad in dieser Zeit beinahe entwischt, hätte die kleine Faultierfreundin nicht in der Lokalzeitung ein Inserat geschaltet. Grosser Wettkampf der Faultiere. Ob das sportliche Faultierweibchen da widerstehen kann?
 
+Die Zweiergruppen sollen ausgelost werden und die kleine Faultierfreundin wollte so schummeln, dass das Faultierweibchen zusammen mit dem Faultier namens Marlow in einer Gruppe war und sie idealerweise deb Wettkampf gewinnen.
+
+Sie meldete sich an. Was gut war.
+
 Tony Hawk
+
 Töpfern
-Ursulaweg
+
+Die nächste Runde war am Ursulaweg. Due Faultiere suchten und suchten. Fanden aber kein Schild das die betreffende Strasse beschrieb. Also fiel die Runde aus.
+
+Singstar
+
+Pflanzen
+
+Die letzte und alles entscheidende Runde war
