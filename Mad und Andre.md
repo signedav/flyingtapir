@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-16T21:51:49+02:00
+modified: 2022-06-16T21:52:11+02:00
 ---
 
 # Mad und Andrea
@@ -32,7 +32,8 @@ Das Faultierweibchen wäre dem Faultier namens Mad in dieser Zeit beinahe entwis
 
 Die Zweiergruppen sollen ausgelost werden und die kleine Faultierfreundin wollte so schummeln, dass das Faultierweibchen zusammen mit dem Faultier namens Marlow in einer Gruppe war und sie idealerweise deb Wettkampf gewinnen.
 
-Sie meldete sich an. Was gut war.
+Sie meldete sich an.
+
 
 Tony Hawk
 
