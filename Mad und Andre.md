@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-16T21:52:11+02:00
+modified: 2022-06-16T21:58:30+02:00
 ---
 
 # Mad und Andrea
@@ -34,15 +34,16 @@ Die Zweiergruppen sollen ausgelost werden und die kleine Faultierfreundin wollte
 
 Sie meldete sich an.
 
+*und dann gibts verschiedene Runden*
 
-Tony Hawk
+Tony Hawk (Computerspiel wo Mad immer besser war als Dave, doch Dave behauptete immer er sei besser)
 
-Töpfern
+Töpfern (beim töpfern sind bei Anfängern Schalen manchmal zwar schön, aber mega schwer)
 
 Die nächste Runde war am Ursulaweg. Due Faultiere suchten und suchten. Fanden aber kein Schild das die betreffende Strasse beschrieb. Also fiel die Runde aus.
 
-Singstar
+Singstar (Mad konnte überhaupt nicht singen. Aber beim Fever von Dusty Springfield hat er jeweils den Rekord gehabt)
 
-Pflanzen
+Pflanzen (Die Planze in der WG ist schnell gestorben)
 
 Die letzte und alles entscheidende Runde war Volleyball. Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum.
