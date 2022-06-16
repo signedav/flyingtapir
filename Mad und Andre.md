@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-15T22:51:53+02:00
+modified: 2022-06-16T21:40:12+02:00
 ---
 
 # Mad und Andrea
@@ -8,7 +8,7 @@ modified: 2022-06-15T22:51:53+02:00
 Es war einmal ein Faultier. Dieses Faultier hiess Marlow. Das Faultier namens Marlow lebte mit einem anderen Faultier zuoberst in einem Hotel einer grossen Stadt.
 
 Das andere Faultier hiess Sherlock.
-Sie waren Detektive. Irgendwie. Und Abenteurer. So etwa. Zusammen hiengen sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen und tranken Malzgetränke. Oder sie erhielten Besuch von anderen Faultieren. Und mit ihnen tranken sie noch mehr Malzgetränke. Lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer mit Motorrädern.
+Sie waren Detektive. Irgendwie. Und Abenteurer. So etwa. Zusammen hiengen sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen und tranken Malzgetränke. Oder sie erhielten Besuch von Faultierfreunden. Und mit ihnen tranken sie noch mehr Malzgetränke. Lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer mit Motorrädern.
 
 Währenddem beim Faultier namens Sherlock eine kleine Faultierfreundin - regelmässig aber meist schlafend - zu Besuch hatte, erhielt das Faultier namens Marlow eines Tages Gesellschaft eines grossen Faultierweibchens. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es selsame Brote. Es war der Beginn einer grossen Liebe. Nur wussten sie das noch nicht so genau.
 
@@ -25,3 +25,9 @@ Sie packten ein, was sie brauchten:
 - Schneeballmaschine
 
 Ein Motorrad hatten sie nicht. Also stiegen sie in den Mazda der Schwester des Faultiers namens Sherlok und fuhren los.
+
+Doch blöderweise hatten die Faultierfreunde, die jeweils zu Besuch kamen, um Malzgetränke zu trinken, das Auto schon mit ihren Ferienutensilien gepackt. Und so blieb ihnen keine andere Möglichkeit, als erstmals nach Spanien zu fahren und dort eine Woche lang Malzgetränke zu trinken, Golf zu spielen, im Pool zu liegen und stundenlang in die Wolken zu schauen.
+
+Das Faultierweibchen wäre dem Faultier namens Mad in dieser Zeit beinahe entwischt, hätte die kleine Faultierfreundin nicht in der Lokalzeitung ein Inserat geschaltet. Grosser Volleyballmatch der Faultiere. Ob das Faultierweibchen da widerstehen kann.
+
+Töpfern
