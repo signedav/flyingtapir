@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-16T21:49:40+02:00
+modified: 2022-06-16T21:51:49+02:00
 ---
 
 # Mad und Andrea
@@ -44,4 +44,4 @@ Singstar
 
 Pflanzen
 
-Die letzte und alles entscheidende Runde war
+Die letzte und alles entscheidende Runde war Volleyball. Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum.
