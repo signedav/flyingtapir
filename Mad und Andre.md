@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-16T21:40:12+02:00
+modified: 2022-06-16T21:42:05+02:00
 ---
 
 # Mad und Andrea
@@ -28,6 +28,8 @@ Ein Motorrad hatten sie nicht. Also stiegen sie in den Mazda der Schwester des F
 
 Doch blöderweise hatten die Faultierfreunde, die jeweils zu Besuch kamen, um Malzgetränke zu trinken, das Auto schon mit ihren Ferienutensilien gepackt. Und so blieb ihnen keine andere Möglichkeit, als erstmals nach Spanien zu fahren und dort eine Woche lang Malzgetränke zu trinken, Golf zu spielen, im Pool zu liegen und stundenlang in die Wolken zu schauen.
 
-Das Faultierweibchen wäre dem Faultier namens Mad in dieser Zeit beinahe entwischt, hätte die kleine Faultierfreundin nicht in der Lokalzeitung ein Inserat geschaltet. Grosser Volleyballmatch der Faultiere. Ob das Faultierweibchen da widerstehen kann.
+Das Faultierweibchen wäre dem Faultier namens Mad in dieser Zeit beinahe entwischt, hätte die kleine Faultierfreundin nicht in der Lokalzeitung ein Inserat geschaltet. Grosser Wettkampf der Faultiere. Ob das sportliche Faultierweibchen da widerstehen kann?
 
+Tony Hawk
 Töpfern
+Ursulaweg
