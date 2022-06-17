@@ -1,21 +1,20 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-17T15:07:06+02:00
+modified: 2022-06-17T21:49:36+02:00
 ---
 
 # Mad und Andrea
 
-Es war einmal ein Faultier. Dieses Faultier hiess Marlow. Das Faultier namens Marlow lebte mit einem anderen Faultier zuoberst in einem Hotel einer grossen Stadt.
+Es war einmal ein Faultier. Dieses Faultier hiess Marlow. Das Faultier namens Marlow lebte mit einem anderen Faultier zuoberst in einem Hotel in einer Wohnung, geschmückt von sozialistischen Propaganda-Plakaten und Trashfilm-Poster.
 
 Das andere Faultier hiess Sherlock.
 Sie waren Detektive. Irgendwie. Und Abenteurer. So etwa. Zusammen hiengen sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen und tranken Malzgetränke. Oder sie erhielten Besuch von Faultierfreunden. Und mit ihnen tranken sie noch mehr Malzgetränke. Lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer mit Motorrädern.
 
-Knöpfli von Mutter
-Sozialistenplakat und Trashfilm
-Pflanze die Stirbt
-Madeninvasion
+Das Faultier namens Marlow ernährte sich hauptsächlich von zwei Dingen: Spätzli von seiner Mutter zum Abendessen und Gipfeli von seiner Mutter zum Frühstück. Das Faultier namens Sherlock hingegen bevorzugte Essiggurken.
 
-Währenddem beim Faultier namens Sherlock eine kleine Faultierfreundin - regelmässig aber meist schlafend - zu Besuch hatte, erhielt das Faultier namens Marlow eines Tages Gesellschaft eines grossen Faultierweibchens. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es selsame Brote. Es war der Beginn einer grossen Liebe. Nur wussten sie das noch nicht so genau.
+Die zwei Faultiere hatten auch andere Mitbewohner. Eine untote palmenähnliche Pflanze aus der Ikea, die trotz einigen Wiederbelebungsversuchen tot blieb und tausende von kleinen Mottenmaden, denen sie trotz Staubsauger nicht gerecht wurden.
+
+Ausserdem erhielt das Faultier namens Sherlock - regelmässig aber meist schlafend - Besuch seiner kleinen Faultierfreundin. Doch eines Tages erhielt auch das Faultier namens Marlow Gesellschaft. Von einem grossen, krausen Faultierweibchen. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es selsame Brote. Es war der Beginn einer grossen Liebe. Nur wussten sie das noch nicht so genau.
 
 Doch das Faultierweibchen war eines Tages nicht mehr da. Das Faultierweibchen war verschwunden. Weg und fort.
 
