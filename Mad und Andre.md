@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-16T21:58:30+02:00
+modified: 2022-06-17T06:23:45+02:00
 ---
 
 # Mad und Andrea
@@ -36,11 +36,11 @@ Sie meldete sich an.
 
 *und dann gibts verschiedene Runden*
 
-Tony Hawk (Computerspiel wo Mad immer besser war als Dave, doch Dave behauptete immer er sei besser)
+Für diecerste Disziplin fuhren sie ins Game Arcade um im Tony Hawk gegeneinander anzutreten. Das Faultier nahmens Sherlock gewann immer, bis seine kleine Freundin ihn ermahnte, dass das Faultier nahmens Marlow weiterkommen muss. Also liess er ihn gewinnen. (Computerspiel wo Mad immer besser war als Dave, doch Dave behauptete immer er sei besser)
 
 Töpfern (beim töpfern sind bei Anfängern Schalen manchmal zwar schön, aber mega schwer)
 
-Die nächste Runde war am Ursulaweg. Due Faultiere suchten und suchten. Fanden aber kein Schild das die betreffende Strasse beschrieb. Also fiel die Runde aus.
+Die nächste Runde war am Ursulaweg. Due Faultiere suchten und suchten. Fanden aber kein Schild das die betreffende Strasse beschrieb. Also fiel die Runde aus. (Mad und ich hatten mal das schild geklaut)
 
 Singstar (Mad konnte überhaupt nicht singen. Aber beim Fever von Dusty Springfield hat er jeweils den Rekord gehabt)
 
