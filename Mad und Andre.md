@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-17T06:23:45+02:00
+modified: 2022-06-17T15:07:06+02:00
 ---
 
 # Mad und Andrea
@@ -9,6 +9,11 @@ Es war einmal ein Faultier. Dieses Faultier hiess Marlow. Das Faultier namens Ma
 
 Das andere Faultier hiess Sherlock.
 Sie waren Detektive. Irgendwie. Und Abenteurer. So etwa. Zusammen hiengen sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen und tranken Malzgetränke. Oder sie erhielten Besuch von Faultierfreunden. Und mit ihnen tranken sie noch mehr Malzgetränke. Lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer mit Motorrädern.
+
+Knöpfli von Mutter
+Sozialistenplakat und Trashfilm
+Pflanze die Stirbt
+Madeninvasion
 
 Währenddem beim Faultier namens Sherlock eine kleine Faultierfreundin - regelmässig aber meist schlafend - zu Besuch hatte, erhielt das Faultier namens Marlow eines Tages Gesellschaft eines grossen Faultierweibchens. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es selsame Brote. Es war der Beginn einer grossen Liebe. Nur wussten sie das noch nicht so genau.
 
@@ -44,6 +49,6 @@ Die nächste Runde war am Ursulaweg. Due Faultiere suchten und suchten. Fanden a
 
 Singstar (Mad konnte überhaupt nicht singen. Aber beim Fever von Dusty Springfield hat er jeweils den Rekord gehabt)
 
-Pflanzen (Die Planze in der WG ist schnell gestorben)
-
 Die letzte und alles entscheidende Runde war Volleyball. Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum.
+
+Ende mit Wohnung Pflsnzen Bilder Kochen zusammeb MadenKompost...
