@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-18T22:16:17+02:00
+modified: 2022-06-18T22:17:30+02:00
 ---
 
 # Mad und Andrea
@@ -8,7 +8,9 @@ modified: 2022-06-18T22:16:17+02:00
 Es war einmal ein Faultier. Dieses Faultier hiess Marlow. Das Faultier namens Marlow lebte mit einem anderen Faultier zuoberst in einem Hotel in einer Wohnung, geschmückt von sozialistischen Propaganda-Plakaten und Trashfilm-Poster.
 
 Das andere Faultier hiess Sherlock.
-Sie waren Detektive. Irgendwie. Und Abenteurer. So etwa. Zusammen hiengen sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen und tranken Malzgetränke. Oder sie erhielten Besuch von Faultierfreunden. Und mit ihnen tranken sie noch mehr Malzgetränke. Lösten dann aber eher weniger Kriminalfälle
+Sie waren Detektive. Irgendwie. Und Abenteurer. So etwa. Zusammen hiengen sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen und tranken Malzgetränke. Oder sie erhielten Besuch von Faultierfreunden. Und mit ihnen tranken sie noch mehr Malzgetränke. Lösten dann aber eher weniger Kriminalfälle.
+Und planten weniger Abenteuer mit Motorrädern.
+
 Das Faultier namens Marlow ernährte sich hauptsächlich von zwei Dingen: Spätzli von seiner Mutter zum Abendessen und Gipfeli von seiner Mutter zum Frühstück. Das Faultier namens Sherlock hingegen bevorzugte Essiggurken.
 
 Die zwei Faultiere hatten auch andere Mitbewohner. Eine untote palmenähnliche Pflanze aus der Ikea, die trotz einigen Wiederbelebungsversuchen tot blieb und tausende von kleinen Lebensmittelmotten, denen sie trotz Staubsauger nicht gerecht wurden.
