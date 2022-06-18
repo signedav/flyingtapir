@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-18T22:17:30+02:00
+modified: 2022-06-18T22:48:57+02:00
 ---
 
 # Mad und Andrea
@@ -11,15 +11,15 @@ Das andere Faultier hiess Sherlock.
 Sie waren Detektive. Irgendwie. Und Abenteurer. So etwa. Zusammen hiengen sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen und tranken Malzgetränke. Oder sie erhielten Besuch von Faultierfreunden. Und mit ihnen tranken sie noch mehr Malzgetränke. Lösten dann aber eher weniger Kriminalfälle.
 Und planten weniger Abenteuer mit Motorrädern.
 
-Das Faultier namens Marlow ernährte sich hauptsächlich von zwei Dingen: Spätzli von seiner Mutter zum Abendessen und Gipfeli von seiner Mutter zum Frühstück. Das Faultier namens Sherlock hingegen bevorzugte Essiggurken.
+Das Faultier namens Marlow ernährte sich hauptsächlich von zwei Dingen: Spätzli von seiner Mutter zum Abendessen und Gipfeli von seiner Mutter zum Frühstück. Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Vor Allem zum Frühstück.
 
-Die zwei Faultiere hatten auch andere Mitbewohner. Eine untote palmenähnliche Pflanze aus der Ikea, die trotz einigen Wiederbelebungsversuchen tot blieb und tausende von kleinen Lebensmittelmotten, denen sie trotz Staubsauger nicht gerecht wurden.
+Die zwei Faultiere hatten auch andere Mitbewohner. Eine untote palmenähnliche Pflanze aus der Ikea, die trotz einigen Wiederbelebungsversuchen tot blieb und tausende von kleinen Lebensmittelmotten, denen sie trotz Staubsauger nicht meister wurden.
 
 Ausserdem erhielt das Faultier namens Sherlock - regelmässig aber meist schlafend - Besuch seiner kleinen Faultierfreundin. 
 
-Doch eines Tages erhielt auch das Faultier namens Marlow Gesellschaft. Von einem grossen, krausen Faultierweibchen. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es selsame Brote undverzählte etwas von Pflanzen. 
+Doch eines Tages erhielt auch das Faultier namens Marlow Gesellschaft. Von einem grossen, krausen Faultierweibchen. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es selsame Brote undverzählte etwas von Pflanzen. Wie man sie davon bewahren könnte, zu sterben.
 
-Es war der Beginn einer grossen Liebe. Nur wussten sie das noch nicht so genau.
+Das Faultier namens Marlow war fasziniert. Es war der Beginn einer grossen Liebe. Nur wussten sie das noch nicht so genau.
 
 Doch das Faultierweibchen war eines Tages nicht mehr da. Das Faultierweibchen war verschwunden. Weg und fort.
 
@@ -55,7 +55,8 @@ Die nächste Runde war am Ursulaweg. Due Faultiere suchten und suchten. Fanden a
 
 Schneeballschlacht.
 
-Singstar (Mad konnte überhaupt nicht singen. Aber beim Fever von Dusty Springfield hat er jeweils den Rekord gehabt)
+Bei einem Singstarwettbewerb ging es darum Fever von Dusty Springfield zu singen. Als das Faultier namens Marlow zu singen begann, merkte das anfänglich gar niemand. Eher glaubten alle, die Laute, die das Faultier von sich gab, seien animalisches Geknurre. Doch als man die Auswertung anschaute war man verblüfft. Das Faultier namens Marlow hat jeden Ton genau getroffen.
+(Mad konnte überhaupt nicht singen. Aber beim Fever von Dusty Springfield hat er jeweils den Rekord gehabt)
 
 Die letzte und alles entscheidende Runde war Volleyball. Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum.
 
