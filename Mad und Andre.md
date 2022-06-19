@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:08:39+02:00
+modified: 2022-06-19T22:12:11+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
@@ -61,10 +61,11 @@ Es war weg. Und es war fort.
 
 Das Faultier namens Marlow wusste nicht genau, was es tun sollte. Also trank es erstmal ein Malzgetränk auf dem Balkon. Auch das Faultier namens Sherlock wusste keinen Rat. Allerdings hat es gerade Malzgetränke gekauft. Und so setzte auch es sich auch auf den Balkon. 
 
-Erst als die kleine Faultierfreundin dazukam taten sie was.
+Erst als die kleine Faultierfreundin dazukam taten sie etwas.
 Erst als die kleine Faultierfreundin ihnen sagte was für faule Faultiere sie doch seien,  schmiedeten sie einen Plan.
 
-Sie planten das grosse, krause Faultierweibchen für das Faultier namens Marlow zu suchen. Und sie würden das grosse, krause Faultierweibchen für das Faultier namens Marlow auch finden. 
+Sie planten das krause Faultierweibchen für das Faultier namens Marlow zu suchen.
+Und sie planten krause Faultierweibchen für das Faultier namens Marlow auch zu finden. 
 Ohja, es würde ihr wichtigster Kriminalfall werden. Und ihr grösstes Abenteuer. 
 
 Sie packten ein, was sie brauchten:
@@ -78,12 +79,19 @@ Sie packten ein, was sie brauchten:
 - Schneeballmaschine
 "Hit it.", sagte das Faultier namens Marlow.
 
-Ein Motorrad hatten sie nicht. Schon gar nicht eines mit Seitenwagen. Also stiegen sie in den Mazda der Schwester des Faultiers namens Sherlok. Und sie fuhren los.
+Ein Motorrad hatten sie nicht. Schon gar keines eines mit Seitenwagen. 
+Also stiegen sie in den Mazda der Schwester des Faultiers namens Sherlock. 
+Und sie fuhren los.
 
 Doch blöderweise benötigten die Faultierfreunde, die jeweils zu Besuch kamen, um Malzgetränke zu trinken, das Auto ebenfalls.
-Und blöderweise hatten die Faultierfreunde, das Auto schon mit ihren Ferienutensilien gepackt. 
+Und blöderweise hatten die Faultierfreunde das Auto schon mit ihren Ferienutensilien gepackt. 
 
-Und so blieb dem Faultier namens Marlow keine andere Möglichkeit, als erstmals nach Spanien zu fahren und dort Malzgetränke zu trinken, Golf zu spielen, im Pool zu liegen und stundenlang in die Wolken zu schauen. Und das sieben Jahre lang.
+Und so blieb dem Faultier namens Marlow keine andere Möglichkeit, als erstmals nach Spanien zu fahren und dort Malzgetränke zu trinken, Golf zu spielen, im Pool zu liegen und stundenlang in die Wolken zu schauen. Und die Zeit schien dabei zu stoppen. 
+
+Doch nichts war so wie es schien.
+Und die Zeit stoppte nicht.
+Die Zeit verging.
+Und zwar sieben Jahre lang.
 
 Das krause Faultierweibchen wäre dem Faultier namens Marlow in dieser Zeit beinahe für immer entwischt.
 
