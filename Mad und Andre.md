@@ -1,26 +1,36 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:00:11+02:00
+modified: 2022-06-19T22:04:33+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
 
-Es war einmal in einer Provinzstadt.
+Es war einmal in einer Stadt.
 Zuoberst in einem Hotel.
 In einer Wohnung, geschmückt mit sozialistischen Propaganda-Plakaten und Trashfilm-Postern.
+
 Ein Faultier. 
 
 Dieses Faultier hiess Marlow.
-Das Faultier namens Marlow hatte einen Mitbewohner. Ebenfalls ein Faultier. Mit dem Namen Sherlock.
+Und dieses Faultier hatte einen Mitbewohner. Ebenfalls ein Faultier. 
+Mit dem Namen Sherlock.
 
 Die beiden Faultiere waren Detektive. Irgendwie. Und die beiden Faultiere waren Abenteurer. So etwa. 
 
-Zusammen gammelten sie auf dem kleinen Balkon ihrer Wohnung, tranken Malzgetränke und lösten Kriminalfälle. Oder sie planten grosse Abenteuer mit Motorrädern mit Seitenwagen. Und tranken Malzgetränke. 
+Zusammen gammelten die beiden Faultiere auf dem kleinen Balkon ihrer Wohnung.
+Zusammen tranken die beiden Faultiere  Malzgetränke und lösten Kriminalfälle. 
+Oder sie planten grosse Abenteuer. 
+Abenteuer mit Motorrädern. Motorrädern mit Seitenwagen. Und dabei tranken Malzgetränke. 
 
-Oder sie erhielten Besuch von Faultierfreunden. Und mit ihnen tranken sie noch mehr Malzgetränke. 
-Sie lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer mit Motorrädern.
+Oder sie erhielten Besuch von Faultierfreunden. 
+Und mit den Faultierfreunden tranken sie noch mehr Malzgetränke. 
+Sie lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer. Schon gar nicht mit Motorrädern.
 
-Das Faultier namens Marlow ernährte sich hauptsächlich von Spätzli von seiner Mutter zum Abendessen und Gipfeli von seiner Mutter zum Frühstück. Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Vor allem zum Frühstück. Das ist für diese Geschichte nicht relevant. Aber bemerkenswert.
+Das Faultier namens Marlow ernährte sich hauptsächlich von Spätzli. Spätzli von seiner Mutter. Zum Abendessen.
+Und auch von Gipfeli. Gipfeli von seiner Mutter. Zum Frühstück. 
+Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Essiggurken zum Frühstück. Bevorzugt.
+Das ist für diese Geschichte nicht relevant.
+Aber es ist bemerkenswert.
 
 Diese zwei Faultiere hatten auch andere Mitbewohner.
 
