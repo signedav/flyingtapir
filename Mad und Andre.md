@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:04:33+02:00
+modified: 2022-06-19T22:08:39+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
@@ -32,28 +32,34 @@ Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Essiggurken zum Fr
 Das ist für diese Geschichte nicht relevant.
 Aber es ist bemerkenswert.
 
-Diese zwei Faultiere hatten auch andere Mitbewohner.
+Diese zwei Faultiere hatten auch andere Mitbewohner. Und Mitbewohnerinnen.
 
-Eines war eine untote palmenähnliche Pflanze. Eine palmenähnliche Pflanze aus der Ikea. Eine palmenähnliche Pflanze, die trotz einigen Wiederbelebungsversuchen untot blieb.
+Eine Mitbewohnerin war eine untote palmenähnliche Pflanze. Eine palmenähnliche Pflanze aus der Ikea. Eine palmenähnliche Pflanze, die trotz einigen Wiederbelebungsversuchen untot blieb.
 
-Das andere waren tausende von kleinen Lebensmittelmotten. Kleine Lebensmittelmotten und ihre Kinder. Und ihre Kindeskinder.
+Die andern Mitbewohner und Mitbewohnerinnen waren Motten. 
+Kleine Lebensmittelmotten. 
+Kleine Lebensmittelmotten und ihre Kinder. Und ihre Kindeskinder.
 
-Ausserdem erhielt das Faultier namens Sherlock - regelmässig, wenn auch meist schlafend - Besuch. Es erhielt Besuch von seiner kleinen Faultierfreundin. 
+Ausserdem erhielt das Faultier namens Sherlock Besuch. Regelmässig, wenn auch meist schlafend.
+Es erhielt Besuch von seiner kleinen Faultierfreundin. 
 
-Doch auch das Faultier namens Marlow war nicht alleine. Eines Tages erhielt auch das Faultier namens Marlow Gesellschaft. Von einem grossen, krausen Faultierweibchen.
+Doch auch das Faultier namens Marlow war nicht alleine. Auch das Faultier namens Marlow erhielt Gesellschaft. 
+Von einem grossen, krausen Faultierweibchen.
 
-Dieses grosse, krause Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck das grosse, krause Faultierweibchen seltsame Brote. Und es erzählte etwas über Pflanzen. Und wie man sie davon bewahren könnte, zu sterben.
+Dieses krause Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. 
+Ausserdem buck das krause Faultierweibchen seltsame Brote. 
+Und es erzählte etwas über Pflanzen. Und wie man sie davon bewahren könnte, zu sterben.
 
 Das Faultier namens Marlow war beeindruckt. 
 Das Faultier namens Marlow war fasziniert. 
-Das Faultier namens Marlow war begeistert.
+Und das Faultier namens Marlow war begeistert.
 Es war der Beginn einer grossen Liebe. Nur wussten er das noch nicht so genau.
 
-Denn plötzlich war das grosse, krause Faultierweibchen nicht mehr da.
-Plötzlich war das grosse, krause Faultierweibchen verschwunden. 
+Denn plötzlich war das krause Faultierweibchen nicht mehr da.
+Plötzlich war das krause Faultierweibchen verschwunden. 
 Es war weg. Und es war fort.
 
-Das Faultier namens Marlow wusste nicht genau, was es tun sollte. Also trank es erstmal ein Malzgetränk auf dem Balkon. Auch das Faultier namens Sherlock wusste keinen Rat. Allerdings hat es gerade Malzgetränke gekauft. So setzte auch es sich auch auf den Balkon. 
+Das Faultier namens Marlow wusste nicht genau, was es tun sollte. Also trank es erstmal ein Malzgetränk auf dem Balkon. Auch das Faultier namens Sherlock wusste keinen Rat. Allerdings hat es gerade Malzgetränke gekauft. Und so setzte auch es sich auch auf den Balkon. 
 
 Erst als die kleine Faultierfreundin dazukam taten sie was.
 Erst als die kleine Faultierfreundin ihnen sagte was für faule Faultiere sie doch seien,  schmiedeten sie einen Plan.
