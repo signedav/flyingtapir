@@ -1,9 +1,9 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T21:26:25+02:00
+modified: 2022-06-19T21:28:14+02:00
 ---
 
-# Mad und Andrea
+# Zwei Faultiere und ihr Madenkompost - eine Liebesgeschichte in zwei Akten
 
 Es war einmal ein Faultier. Dieses Faultier hiess Marlow. Das Faultier namens Marlow lebte mit einem anderen Faultier zuoberst in einem Hotel in einer Provinzstadt in einer Wohnung, die geschmückt war mit sozialistischen Propaganda-Plakaten und Trashfilm-Poster.
 
