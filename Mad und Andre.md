@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:12:11+02:00
+modified: 2022-06-19T22:25:25+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
@@ -93,7 +93,7 @@ Und die Zeit stoppte nicht.
 Die Zeit verging.
 Und zwar sieben Jahre lang.
 
-Das krause Faultierweibchen wäre dem Faultier namens Marlow in dieser Zeit beinahe für immer entwischt.
+Das krause Faultierweibchen wäre dem Faultier namens Marlow in dieser Zeit beinahe entwischt. Beinahe für immer.
 
 Wäre die kleine Faultierfreundin des Faultiers namens Sherlock nicht von Beruf Journalistin gewesen.
 Hätte die kleine Faultierfreundin nicht bei der Lokalzeitung gearbeitet.
@@ -106,16 +106,37 @@ Das krause Faultierweibchen konnte nicht widerstehen.
 Das krause Faultierweibchen meldete sich an.
 Der Plan ging auf.
 
-Und so kam es, dass an einem wunderschönen Sommermorgen das Faultier namens Marlow und das krause Faultierweibchen wieder aufeinander treffen sollten. Noch wussten sie nichts von diesem schicksalhaften Ereignis.
+Und so kam es, dass an einem wunderschönen Sommermorgen das krause Faultierweibchen antrat.
+Und so kam es, dass an einem wunderschönen Sommermorgenn das Faultier namens Marlow antrat.
+Und so kam es, dass das Faultier namens Marlow und das krause Faultierweibchen wieder aufeinander treffen sollten. 
 
-Für die erste Disziplin fuhren sie ins Game Arcade um im Tony Hawk gegeneinander anzutreten. Das Faultier nahmens Sherlock gewann immer, bis seine kleine Freundin ihn ermahnte, dass das Faultier nahmens Marlow weiterkommen musste. Denn, so der Plan, das krause Faultierweibchen sollte gemeinsam mit dem Faultier namens Marlow im Finale stehen. Also liess er ihn gewinnen.
+Doch noch wussten sie nichts von diesem schicksalhaften Ereignis.
+
+Für die erste Disziplin fuhren sie ins Game Arcade.
+Um im Game Arcade Tony Hawk zu spielen.
+Auch das Faultier nahmens Sherlock spielte mit.
+Und das Faultier nahmens Sherlock gewann. Es gewann immer.
+Immer wieder gewann es. BIs seine kleine Freundin ihn ermahnte, dass das Faultier nahmens Marlow weiterkommen musste.  Also liess das Faultier namens Sherlock das Faultier namens Marlow gewinnen.
+
+Denn das Faultier nahmens Marlow sollte ins Finale kommen.
+Und das krause Faultierweibchen sollte ins Finale kommen.
+Gemeinsam sollen sie im Finale stehen.
+So der Plan.
 
 Die zweite Disziplin war töpfern.
-Eine Teilnehmerin töpfern besonders schnell und besonders schön und gewann diese Runde ohne Probleme. Es war da krause Faultierweibchen. 
+Eine Teilnehmerin töpferte besonders schnell.
+Eine Teilnehmerin töpferte besonders schön.
+Eine Teilnehmerin gewann diese Runde ohne Probleme. 
+Es war da krause Faultierweibchen. 
 
-Die nächste Runde war am Ursulaweg. Die Faultiere suchten und suchten. Fanden aber kein Schild das die betreffende Strasse beschrieb. Also fiel diese Runde aus.
+Die nächste Runde war am Ursulaweg. 
+Es sollten alle an den Ursulaweg.
+Doch wo ist dieser Ursulaweg?
+Die Faultiere suchten und suchten.
+Doch die Faultiere fanden kein Schild für den Ursulaweg. 
+Also fiel diese Runde aus.
 
-Schneeballschlacht.
+Die nächste Disziplin war eine Schneeballschlacht. 
 
 Bei einem Singstarwettbewerb ging es darum Fever von Dusty Springfield zu singen. Als das Faultier namens Marlow zu singen begann, merkte das anfänglich gar niemand. Eher glaubten alle, die Laute, die das Faultier von sich gab, seien animalisches Geknurre. Doch als man die Auswertung anschaute war man verblüfft. Das Faultier namens Marlow hat jeden Ton genau getroffen.
 
