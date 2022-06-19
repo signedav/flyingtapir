@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:56:27+02:00
+modified: 2022-06-19T22:57:47+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
@@ -181,8 +181,6 @@ Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen ric
 Das Faultierweibchen lernte dem Faultier namens Marlow, wie man kocht.
 Und an den Wänden ihrer Faultierwohnung hing bald Kunst. Und die Regale waren dekoriert mit kleinen Schüssel und hübschen Utensilien. 
 Es gab keine untoten Pflanzen. Und auch keine toten Pflanzen. Und im Kompost lebten tausende von kleinen Würmer. Kleine Würmer und ihre Kinder. Und ihre Kindeskinder.
-
-*(Könnte man streichen) So verging die Zeit, die zwei wiedervereinten Faultiere gingen zur Faultierschule, spielten viel Volleyball und zogen ein paar Jahre später in eine neue Faultierwohnung und eines Tages fragte das Faultier Namens Marlow das Weibchen ob es ihn denn gerne heiraten würde.*
 
 Bald darauf feierten sie ein grosses Faultierfest.
 Ein Faultierhochzeitsfest mit ihren Faultierfreunden.
