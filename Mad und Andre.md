@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:57:47+02:00
+modified: 2022-06-19T22:58:21+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
@@ -188,4 +188,4 @@ Ein Fest wo alle zur späten Stunde betrunken vor Glück über die grosse Wiese 
 
 Die zwei nun verheirateten Faultiere leben noch heute glücklich und zufrieden zusammen ihr Faultierleben.
 
-Und ab und zu treffen sie sich auch heute noch mit dem Faultier namens Sherlok und seiner kleinen Faultierfreundin,.
+Und ab und zu treffen sie sich auch heute noch mit dem Faultier namens Sherlok und seiner kleinen Faultierfreundin.
