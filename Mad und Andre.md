@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T21:57:01+02:00
+modified: 2022-06-19T21:59:30+02:00
 ---
 
 # Marlows wichtigster Fall
@@ -97,8 +97,9 @@ Bei einem Singstarwettbewerb ging es darum Fever von Dusty Springfield zu singen
 
 Die letzte und alles entscheidende Runde war Volleyball. Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum. Und da passierte es, das Fsultierweibchen, das auf den ersten Platz lag, kam mit dem in ein Team, Gemeinsam sollten sie gegen die Nummer 2 und 4 antreten. Doch aus dem grossen Finale Würde nichts. Denn das krause Faultierweibchen und das Faultier namens Marlow waren verschwunden.
 
-Sie wollten nicht Volleyball spielen und hatten sich eine Wohnung gesucht und Pflanzen gekauft. Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen richtig pflegt, sie lernte ihn kochen und an den Wänden hing bald Kunst und die Regale waren dekoriert mit kleinen Schüssel uns hübschen Utensilien, die sie von ihren vielen Reisen nach Hause brachten. Und auch die Maden aus der Stadtwohnunh zogen wieder ein, und zwar in den Madenkompost.
+Sie wollten nicht Volleyball spielen und hatten sich eine Wohnung gesucht und Pflanzen gekauft. Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen richtig pflegt, sie lernte ihn kochen und an den Wänden hing bald Kunst und die Regale waren dekoriert mit kleinen Schüssel uns hübschen Utensilien, die sie von ihren vielen Reisen nach Hause brachten. 
+Und im Kompost lebten tausende von kleinen Würmer. Kleine Würmer und ihre Kinder. Und ihre Kindeskinder.
 
-So verging die Zeit, die zwei wiedervereinten Faultiere gingen zur Faultierschule, spielten viel Volleyball und zogen ein paar Jahre später in eine neue Faultierwohnung und eines Tages fragte das Faultier Namens Marlow das Weibchen ob es ihn denn gerne heiraten würde.
+*So verging die Zeit, die zwei wiedervereinten Faultiere gingen zur Faultierschule, spielten viel Volleyball und zogen ein paar Jahre später in eine neue Faultierwohnung und eines Tages fragte das Faultier Namens Marlow das Weibchen ob es ihn denn gerne heiraten würde.*
 
 Bald darauf feierten sie ein grosses Faultierfest mit ihren Faultierfreunden, die alle zur späten Stunde betrunken vor Glück über die grosse Wiese im Eulachpark nach Hause torkelten. Die zwei nun verheirateten Faultiere leben noch heute glücklich und zufrieden zusammen ihr Faultierleben und ab und zu treffen sie sich auch heute noch mit dem Faultier namens Sherlok und seiner kleinen Faultierfreundin, und ihren gefühlt hundert Faultierkindern.
