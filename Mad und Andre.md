@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T21:28:14+02:00
+modified: 2022-06-19T21:28:56+02:00
 ---
 
 # Zwei Faultiere und ihr Madenkompost - eine Liebesgeschichte in zwei Akten
@@ -17,7 +17,7 @@ Die zwei Faultiere hatten auch andere Mitbewohner. Eine untote palmenähnliche P
 
 Ausserdem erhielt das Faultier namens Sherlock - regelmässig aber meist schlafend - Besuch seiner kleinen Faultierfreundin. 
 
-Doch eines Tages erhielt auch das Faultier namens Marlow Gesellschaft. Von einem grossen, krausen Faultierweibchen. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es seltsame Brote und erzählte etwas über Pflanzen, und wie man sie davon bewahren könnte, zu sterben.
+Doch eines Tages erhielt auch das Faultier namens Marlow Gesellschaft. Von einem grossen, krausen Faultierweibchen. Dieses Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck es seltsame Brote und erzählte etwas über Pflanzen, und wie man sie davon bewahren könnte zu sterben.
 
 Das Faultier namens Marlow war fasziniert. Es war der Beginn einer grossen Liebe. Nur wussten er das noch nicht so genau.
 
