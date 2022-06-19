@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:25:25+02:00
+modified: 2022-06-19T22:56:27+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
@@ -106,8 +106,8 @@ Das krause Faultierweibchen konnte nicht widerstehen.
 Das krause Faultierweibchen meldete sich an.
 Der Plan ging auf.
 
-Und so kam es, dass an einem wunderschönen Sommermorgen das krause Faultierweibchen antrat.
-Und so kam es, dass an einem wunderschönen Sommermorgenn das Faultier namens Marlow antrat.
+Und so kam es, dass an einem wunderschönen Sommermorgen das krause Faultierweibchen antreten sollten.
+Und so kam es, dass an einem wunderschönen Sommermorgenn das Faultier namens Marlow antreten sollten.
 Und so kam es, dass das Faultier namens Marlow und das krause Faultierweibchen wieder aufeinander treffen sollten. 
 
 Doch noch wussten sie nichts von diesem schicksalhaften Ereignis.
@@ -136,15 +136,58 @@ Die Faultiere suchten und suchten.
 Doch die Faultiere fanden kein Schild für den Ursulaweg. 
 Also fiel diese Runde aus.
 
-Die nächste Disziplin war eine Schneeballschlacht. 
+Die nächste Disziplin war eine Schlacht. Eine Schneeballschlacht. Das krause Faultier kannte sich mit Bällen aus. Doch das krause Faultier kannte sich mit Schnee nicht aus. Das krause Faultier hatte von Schneebällen keine Ahnung.
 
-Bei einem Singstarwettbewerb ging es darum Fever von Dusty Springfield zu singen. Als das Faultier namens Marlow zu singen begann, merkte das anfänglich gar niemand. Eher glaubten alle, die Laute, die das Faultier von sich gab, seien animalisches Geknurre. Doch als man die Auswertung anschaute war man verblüfft. Das Faultier namens Marlow hat jeden Ton genau getroffen.
+Und so wäre es in dieser Runde untergegangen. Untergegangen im Schneeballhagel. Im Schneeballhagel der Gegner. Hätte es nicht Hilfe gekriegt.
 
-Die letzte und alles entscheidende Runde war Volleyball. Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum. Und da passierte es, das Fsultierweibchen, das auf den ersten Platz lag, kam mit dem in ein Team, Gemeinsam sollten sie gegen die Nummer 2 und 4 antreten. Doch aus dem grossen Finale Würde nichts. Denn das krause Faultierweibchen und das Faultier namens Marlow waren verschwunden.
+Das Faultier namens Sherlock steckte ihm die Schneeballmaschine zu. Ohne dass es bemerkte woher sie kam. Das krause Faultierweibchen hatte plötzlich die Schneeballmaschine in der Hand. Und es schlug zurück.
+Ihre Gegner sahen nur noch weiss.
+Schneeweiss.
 
-Sie wollten nicht Volleyball spielen und hatten sich eine Wohnung gesucht und Pflanzen gekauft. Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen richtig pflegt, sie lernte ihn kochen und an den Wänden hing bald Kunst und die Regale waren dekoriert mit kleinen Schüssel uns hübschen Utensilien, die sie von ihren vielen Reisen nach Hause brachten. 
-Und im Kompost lebten tausende von kleinen Würmer. Kleine Würmer und ihre Kinder. Und ihre Kindeskinder.
+Die zweitletzte Disziplin war Singen.
+Diese Disziplin war ein Singstarwettbewerb.
+In dieser Disziplin musste man Fever von Dusty Springfield singen. 
 
-*So verging die Zeit, die zwei wiedervereinten Faultiere gingen zur Faultierschule, spielten viel Volleyball und zogen ein paar Jahre später in eine neue Faultierwohnung und eines Tages fragte das Faultier Namens Marlow das Weibchen ob es ihn denn gerne heiraten würde.*
+Als das Faultier namens Marlow zu singen begann, merkte das anfänglich gar niemand. 
+Als das Faultier namens Marlow zu singen begann, meinten alle sie hören ihren Magen knurren.
+Oder ein fehrnes Donnern.
 
-Bald darauf feierten sie ein grosses Faultierfest mit ihren Faultierfreunden, die alle zur späten Stunde betrunken vor Glück über die grosse Wiese im Eulachpark nach Hause torkelten. Die zwei nun verheirateten Faultiere leben noch heute glücklich und zufrieden zusammen ihr Faultierleben und ab und zu treffen sie sich auch heute noch mit dem Faultier namens Sherlok und seiner kleinen Faultierfreundin, und ihren gefühlt hundert Faultierkindern.
+Doch als man die Auswertung anschaute war man verblüfft. Als man die Auswertung anschaute war man begeistert. Das Faultier namens Marlow hat die Töne getroffen. Jeden einzelnen Ton.
+
+Es ging an die letzte Runde. 
+Es ging an die alles entscheidende Runde.
+Die letzte und alles entscheidende Runde war Volleyball. 
+
+Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum. 
+
+Und da passierte es.
+Es passierte, was lange geplant war.
+
+Das Faultierweibchen, das auf den ersten Platz lag, kam mit dem Faultier namens Marlow ein Team. Das auf dem dritten Platz lag.
+
+Gemeinsam sollten sie gegen die Nummer 2 und die Nummer 4 antreten. Nichts erwähnenswerte andere Faultiere. Doch Faultiere, die das Finale schlussendlich gewannen. Ohne zu spielen.
+
+Doch aus dem grossen Finale wurde nichts. 
+Das grosse Finale fand nie statt 
+
+Denn das krause Faultierweibchen und das Faultier namens Marlow waren verschwunden. Sie waren weg. Und sie waren fort.
+
+Sie wollten nicht Volleyball spielen.
+Sie wollten das Finale nicht gewinnen.
+Viel lieber wollten sie sich eine Wohnung suchen.
+Viel lieber wollten sie Pflanzen kaufen.
+
+Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen richtig pflegt
+Das Faultierweibchen lernte dem Faultier namens Marlow, wie man kocht.
+Und an den Wänden ihrer Faultierwohnung hing bald Kunst. Und die Regale waren dekoriert mit kleinen Schüssel und hübschen Utensilien. 
+Es gab keine untoten Pflanzen. Und auch keine toten Pflanzen. Und im Kompost lebten tausende von kleinen Würmer. Kleine Würmer und ihre Kinder. Und ihre Kindeskinder.
+
+*(Könnte man streichen) So verging die Zeit, die zwei wiedervereinten Faultiere gingen zur Faultierschule, spielten viel Volleyball und zogen ein paar Jahre später in eine neue Faultierwohnung und eines Tages fragte das Faultier Namens Marlow das Weibchen ob es ihn denn gerne heiraten würde.*
+
+Bald darauf feierten sie ein grosses Faultierfest.
+Ein Faultierhochzeitsfest mit ihren Faultierfreunden.
+Ein Fest wo alle zur späten Stunde betrunken vor Glück über die grosse Wiese im Eulachpark nach Hause torkelten.
+
+Die zwei nun verheirateten Faultiere leben noch heute glücklich und zufrieden zusammen ihr Faultierleben.
+
+Und ab und zu treffen sie sich auch heute noch mit dem Faultier namens Sherlok und seiner kleinen Faultierfreundin,.
