@@ -1,9 +1,9 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T21:59:30+02:00
+modified: 2022-06-19T22:00:03+02:00
 ---
 
-# Marlows wichtigster Fall
+# Marlows wichtigster Fall - Eine Faultier-Liebesgeschichte
 
 Es war einmal in einer Provinzstadt.
 Zuoberst in einem Hotel.
