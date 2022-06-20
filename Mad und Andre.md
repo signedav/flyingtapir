@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-19T22:58:21+02:00
+modified: 2022-06-20T21:08:30+02:00
 ---
 
 # Marlows wichtigster Fall - Eine Faultierliebesgeschichte
@@ -13,14 +13,14 @@ Ein Faultier.
 
 Dieses Faultier hiess Marlow.
 Und dieses Faultier hatte einen Mitbewohner. Ebenfalls ein Faultier. 
-Mit dem Namen Sherlock.
+Ein Faultier mit dem Namen Sherlock.
 
 Die beiden Faultiere waren Detektive. Irgendwie. Und die beiden Faultiere waren Abenteurer. So etwa. 
 
 Zusammen gammelten die beiden Faultiere auf dem kleinen Balkon ihrer Wohnung.
 Zusammen tranken die beiden Faultiere  Malzgetränke und lösten Kriminalfälle. 
 Oder sie planten grosse Abenteuer. 
-Abenteuer mit Motorrädern. Motorrädern mit Seitenwagen. Und dabei tranken Malzgetränke. 
+Abenteuer mit Motorrädern. Motorrädern mit Seitenwagen. Und dabei tranken sie Malzgetränke. 
 
 Oder sie erhielten Besuch von Faultierfreunden. 
 Und mit den Faultierfreunden tranken sie noch mehr Malzgetränke. 
@@ -28,7 +28,7 @@ Sie lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer
 
 Das Faultier namens Marlow ernährte sich hauptsächlich von Spätzli. Spätzli von seiner Mutter. Zum Abendessen.
 Und auch von Gipfeli. Gipfeli von seiner Mutter. Zum Frühstück. 
-Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Essiggurken zum Frühstück. Bevorzugt.
+Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Essiggurken zum Frühstück. 
 Das ist für diese Geschichte nicht relevant.
 Aber es ist bemerkenswert.
 
@@ -38,12 +38,12 @@ Eine Mitbewohnerin war eine untote palmenähnliche Pflanze. Eine palmenähnliche
 
 Die andern Mitbewohner und Mitbewohnerinnen waren Motten. 
 Kleine Lebensmittelmotten. 
-Kleine Lebensmittelmotten und ihre Kinder. Und ihre Kindeskinder.
+Kleine Lebensmittelmotten und ihre Kinder. Und deren Kindeskinder.
 
 Ausserdem erhielt das Faultier namens Sherlock Besuch. Regelmässig, wenn auch meist schlafend.
 Es erhielt Besuch von seiner kleinen Faultierfreundin. 
 
-Doch auch das Faultier namens Marlow war nicht alleine. Auch das Faultier namens Marlow erhielt Gesellschaft. 
+Auch das Faultier namens Marlow war nicht alleine. Auch das Faultier namens Marlow erhielt Gesellschaft. 
 Von einem grossen, krausen Faultierweibchen.
 
 Dieses krause Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. 
@@ -57,7 +57,7 @@ Es war der Beginn einer grossen Liebe. Nur wussten er das noch nicht so genau.
 
 Denn plötzlich war das krause Faultierweibchen nicht mehr da.
 Plötzlich war das krause Faultierweibchen verschwunden. 
-Es war weg. Und es war fort.
+Es war weg. Es war fort.
 
 Das Faultier namens Marlow wusste nicht genau, was es tun sollte. Also trank es erstmal ein Malzgetränk auf dem Balkon. Auch das Faultier namens Sherlock wusste keinen Rat. Allerdings hat es gerade Malzgetränke gekauft. Und so setzte auch es sich auch auf den Balkon. 
 
@@ -79,11 +79,11 @@ Sie packten ein, was sie brauchten:
 - Schneeballmaschine
 "Hit it.", sagte das Faultier namens Marlow.
 
-Ein Motorrad hatten sie nicht. Schon gar keines eines mit Seitenwagen. 
+Ein Motorrad hatten sie nicht. Schon gar nicht eines mit Seitenwagen. 
 Also stiegen sie in den Mazda der Schwester des Faultiers namens Sherlock. 
 Und sie fuhren los.
 
-Doch blöderweise benötigten die Faultierfreunde, die jeweils zu Besuch kamen, um Malzgetränke zu trinken, das Auto ebenfalls.
+Doch blöderweise benötigten die Faultierfreunde, die jeweils zu Besuch kamen um Malzgetränke zu trinken, das Auto ebenfalls.
 Und blöderweise hatten die Faultierfreunde das Auto schon mit ihren Ferienutensilien gepackt. 
 
 Und so blieb dem Faultier namens Marlow keine andere Möglichkeit, als erstmals nach Spanien zu fahren und dort Malzgetränke zu trinken, Golf zu spielen, im Pool zu liegen und stundenlang in die Wolken zu schauen. Und die Zeit schien dabei zu stoppen. 
@@ -149,8 +149,8 @@ Diese Disziplin war ein Singstarwettbewerb.
 In dieser Disziplin musste man Fever von Dusty Springfield singen. 
 
 Als das Faultier namens Marlow zu singen begann, merkte das anfänglich gar niemand. 
-Als das Faultier namens Marlow zu singen begann, meinten alle sie hören ihren Magen knurren.
-Oder ein fehrnes Donnern.
+Als das Faultier namens Marlow zu singen begann, meinten alle, es sei ihren Magen, der knuret.
+Oder ein fernes Donnern.
 
 Doch als man die Auswertung anschaute war man verblüfft. Als man die Auswertung anschaute war man begeistert. Das Faultier namens Marlow hat die Töne getroffen. Jeden einzelnen Ton.
 
@@ -165,10 +165,10 @@ Es passierte, was lange geplant war.
 
 Das Faultierweibchen, das auf den ersten Platz lag, kam mit dem Faultier namens Marlow ein Team. Das auf dem dritten Platz lag.
 
-Gemeinsam sollten sie gegen die Nummer 2 und die Nummer 4 antreten. Nichts erwähnenswerte andere Faultiere. Doch Faultiere, die das Finale schlussendlich gewannen. Ohne zu spielen.
+Gemeinsam sollten sie gegen die Nummer zwei und die Nummer vier antreten. Nicht erwähnenswerte andere Faultiere. Doch Faultiere, die das Finale schlussendlich gewannen. Ohne zu spielen.
 
 Doch aus dem grossen Finale wurde nichts. 
-Das grosse Finale fand nie statt 
+Das grosse Finale fand nie statt.
 
 Denn das krause Faultierweibchen und das Faultier namens Marlow waren verschwunden. Sie waren weg. Und sie waren fort.
 
@@ -177,7 +177,7 @@ Sie wollten das Finale nicht gewinnen.
 Viel lieber wollten sie sich eine Wohnung suchen.
 Viel lieber wollten sie Pflanzen kaufen.
 
-Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen richtig pflegt
+Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen richtig pflegt.
 Das Faultierweibchen lernte dem Faultier namens Marlow, wie man kocht.
 Und an den Wänden ihrer Faultierwohnung hing bald Kunst. Und die Regale waren dekoriert mit kleinen Schüssel und hübschen Utensilien. 
 Es gab keine untoten Pflanzen. Und auch keine toten Pflanzen. Und im Kompost lebten tausende von kleinen Würmer. Kleine Würmer und ihre Kinder. Und ihre Kindeskinder.
@@ -186,6 +186,6 @@ Bald darauf feierten sie ein grosses Faultierfest.
 Ein Faultierhochzeitsfest mit ihren Faultierfreunden.
 Ein Fest wo alle zur späten Stunde betrunken vor Glück über die grosse Wiese im Eulachpark nach Hause torkelten.
 
-Die zwei nun verheirateten Faultiere leben noch heute glücklich und zufrieden zusammen ihr Faultierleben.
+Die zwei nun verheirateten Faultiere leben heute glücklich und zufrieden zusammen ihr Faultierleben.
 
 Und ab und zu treffen sie sich auch heute noch mit dem Faultier namens Sherlok und seiner kleinen Faultierfreundin.
