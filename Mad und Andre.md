@@ -1,9 +1,9 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-20T21:08:30+02:00
+modified: 2022-06-21T21:46:15+02:00
 ---
 
-# Marlows wichtigster Fall - Eine Faultierliebesgeschichte
+# The Big Sleep - A Sloth-Love-Story
 
 Es war einmal in einer Stadt.
 Zuoberst in einem Hotel.
@@ -13,60 +13,48 @@ Ein Faultier.
 
 Dieses Faultier hiess Marlow.
 Und dieses Faultier hatte einen Mitbewohner. Ebenfalls ein Faultier. 
-Ein Faultier mit dem Namen Sherlock.
+Dieses hiess Sherlock.
 
 Die beiden Faultiere waren Detektive. Irgendwie. Und die beiden Faultiere waren Abenteurer. So etwa. 
 
 Zusammen gammelten die beiden Faultiere auf dem kleinen Balkon ihrer Wohnung.
-Zusammen tranken die beiden Faultiere  Malzgetränke und lösten Kriminalfälle. 
+Zusammen tranken sie Malzgetränke und lösten Kriminalfälle. 
 Oder sie planten grosse Abenteuer. 
-Abenteuer mit Motorrädern. Motorrädern mit Seitenwagen. Und dabei tranken sie Malzgetränke. 
+Abenteuer mit Motorrädern. Mit Seitenwagen. Und dabei tranken sie Malzgetränke. 
 
 Oder sie erhielten Besuch von Faultierfreunden. 
 Und mit den Faultierfreunden tranken sie noch mehr Malzgetränke. 
-Sie lösten dann aber eher weniger Kriminalfälle. Und planten weniger Abenteuer. Schon gar nicht mit Motorrädern.
+Dann aber lösten sie eher weniger Kriminalfälle. Und planten weniger Abenteuer. Schon gar nicht mit Motorrädern.
 
 Das Faultier namens Marlow ernährte sich hauptsächlich von Spätzli. Spätzli von seiner Mutter. Zum Abendessen.
-Und auch von Gipfeli. Gipfeli von seiner Mutter. Zum Frühstück. 
-Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Essiggurken zum Frühstück. 
-Das ist für diese Geschichte nicht relevant.
-Aber es ist bemerkenswert.
+Und auch von Gipfeli. Auch von seiner Mutter. Zum Frühstück. 
+Das Faultier namens Sherlock hingegen bevorzugte Essiggurken. Zum Frühstück. 
+Dies ist aber für diese Geschichte nicht relevant.
 
-Diese zwei Faultiere hatten auch andere Mitbewohner. Und Mitbewohnerinnen.
+Diese zwei Faultiere hatten auch Mitbewohnerinnen.
 
-Eine Mitbewohnerin war eine untote palmenähnliche Pflanze. Eine palmenähnliche Pflanze aus der Ikea. Eine palmenähnliche Pflanze, die trotz einigen Wiederbelebungsversuchen untot blieb.
+Eine Mitbewohnerin war eine tote palmenähnliche Pflanze. Eine palmenähnliche Pflanze aus der Ikea. Eine Pflanze, die trotz einigen Wiederbelebungsversuchen tot blieb.
 
-Die andern Mitbewohner und Mitbewohnerinnen waren Motten. 
-Kleine Lebensmittelmotten. 
-Kleine Lebensmittelmotten und ihre Kinder. Und deren Kindeskinder.
+Die andern Mitbewohnerinnen waren Motten. 
+Kleine Lebensmittelmotten. Und ihre Kinder. Und deren Kindeskinder. Diese waren überhaupt nicht tot. Im Gegenteil.
 
-Ausserdem erhielt das Faultier namens Sherlock Besuch. Regelmässig, wenn auch meist schlafend.
-Es erhielt Besuch von seiner kleinen Faultierfreundin. 
+Ausserdem erhielt das Faultier namens Sherlock Besuch. Regelmässig, wenn auch meist schlafend. Besuch von seiner kleinen Faultierfreundin. 
 
-Auch das Faultier namens Marlow war nicht alleine. Auch das Faultier namens Marlow erhielt Gesellschaft. 
-Von einem grossen, krausen Faultierweibchen.
+Auch das Faultier namens Marlow war nicht alleine. Auch das Faultier namens Marlow erhielt Gesellschaft. Von einem grossen, krausen Faultierweibchen.
 
-Dieses krause Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. 
-Ausserdem buck das krause Faultierweibchen seltsame Brote. 
-Und es erzählte etwas über Pflanzen. Und wie man sie davon bewahren könnte, zu sterben.
+Dieses krause Faultierweibchen spielte gerne Volleyball. Genauso wie das Faultier namens Marlow. Ausserdem buck das krause Faultierweibchen seltsame Brote. Und es erzählte etwas über Pflanzen. Und wie man sie davon bewahren könnte, zu sterben.
 
-Das Faultier namens Marlow war beeindruckt. 
-Das Faultier namens Marlow war fasziniert. 
-Und das Faultier namens Marlow war begeistert.
+Das Faultier namens Marlow war beeindruckt. Und es war fasziniert. Und begeistert.
 Es war der Beginn einer grossen Liebe. Nur wussten er das noch nicht so genau.
 
-Denn plötzlich war das krause Faultierweibchen nicht mehr da.
-Plötzlich war das krause Faultierweibchen verschwunden. 
-Es war weg. Es war fort.
+Denn plötzlich war das krause Faultierweibchen nicht mehr da. Plötzlich war es verschwunden. Weg und fort.
 
-Das Faultier namens Marlow wusste nicht genau, was es tun sollte. Also trank es erstmal ein Malzgetränk auf dem Balkon. Auch das Faultier namens Sherlock wusste keinen Rat. Allerdings hat es gerade Malzgetränke gekauft. Und so setzte auch es sich auch auf den Balkon. 
+Das Faultier namens Marlow wusste nicht genau, was es tun sollte. Also trank es erstmal ein Malzgetränk auf dem Balkon. Auch das Faultier namens Sherlock wusste keinen Rat. Allerdings hatte es gerade Malzgetränke gekauft. Und so setzte auch es sich auch auf den Balkon. 
 
-Erst als die kleine Faultierfreundin dazukam taten sie etwas.
-Erst als die kleine Faultierfreundin ihnen sagte was für faule Faultiere sie doch seien,  schmiedeten sie einen Plan.
+Erst als die kleine Faultierfreundin dazukam taten sie etwas. Erst als sie ihnen sagte was für faule Faultiere sie doch seien, schmiedeten sie einen Plan.
 
 Sie planten das krause Faultierweibchen für das Faultier namens Marlow zu suchen.
-Und sie planten krause Faultierweibchen für das Faultier namens Marlow auch zu finden. 
-Ohja, es würde ihr wichtigster Kriminalfall werden. Und ihr grösstes Abenteuer. 
+Und sie planten es auch zu finden. Es war ein genialer Plan. Es war eine Schweizer Uhr, so genial. Und es würde ihr wichtigster Kriminalfall werden. Und ihr grösstes Abenteuer. 
 
 Sie packten ein, was sie brauchten:
 - Voller Benzinkanister
