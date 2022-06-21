@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-21T21:46:15+02:00
+modified: 2022-06-21T22:02:41+02:00
 ---
 
 # The Big Sleep - A Sloth-Love-Story
@@ -78,24 +78,19 @@ Und so blieb dem Faultier namens Marlow keine andere Möglichkeit, als erstmals 
 
 Doch nichts war so wie es schien.
 Und die Zeit stoppte nicht.
-Die Zeit verging.
-Und zwar sieben Jahre lang.
+Im Gegenteil. Die Zeit verging.
+Und es strichen sieben Jahr ins Land Katalonien.
 
 Das krause Faultierweibchen wäre dem Faultier namens Marlow in dieser Zeit beinahe entwischt. Beinahe für immer.
 
-Wäre die kleine Faultierfreundin des Faultiers namens Sherlock nicht von Beruf Journalistin gewesen.
-Hätte die kleine Faultierfreundin nicht bei der Lokalzeitung gearbeitet.
-Und hätte sie dort nicht ein Inserat geschaltet. 
+Wäre die kleine Faultierfreundin des Faultiers namens Sherlock nicht von Beruf Journalistin gewesen. Und hätte die kleine Faultierfreundin nicht bei der Lokalzeitung gearbeitet. Und dort nicht ein Inserat geschaltet. 
 
-Doch genau das hat sie getan. Die Faultierfreunde veranstaltete einen grossen Wettkampf. Einen grossen Wettkampf für Faultiere.
-Ob da das sportliche, krause Faultierweibchen da wiederstehen konnte?
+Doch genau das hat sie getan. Die kleineFaultierfreundin veranstaltete einen grossen Wettkampf. Einen grossen Wettkampf für Faultiere. Ob da das sportliche, krause Faultierweibchen da wiederstehen konnte?
 
-Das krause Faultierweibchen konnte nicht widerstehen.
-Das krause Faultierweibchen meldete sich an.
-Der Plan ging auf.
+Das krause Faultierweibchen konnte nicht widerstehen. Es meldete sich an. Der Plan ging auf.
 
-Und so kam es, dass an einem wunderschönen Sommermorgen das krause Faultierweibchen antreten sollten.
-Und so kam es, dass an einem wunderschönen Sommermorgenn das Faultier namens Marlow antreten sollten.
+Und so kam es, dass an einem wunderschönen Sommermorgen das krause Faultierweibchen antreten sollte.
+Und, dass an diesem wunderschönen Sommermorgenn auch das Faultier namens Marlow antreten sollte.
 Und so kam es, dass das Faultier namens Marlow und das krause Faultierweibchen wieder aufeinander treffen sollten. 
 
 Doch noch wussten sie nichts von diesem schicksalhaften Ereignis.
