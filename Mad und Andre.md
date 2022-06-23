@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-23T17:23:57+02:00
+modified: 2022-06-23T17:27:28+02:00
 ---
 
 # The Big Sleep - A Sloth-Love-Story
@@ -71,7 +71,7 @@ Ein Motorrad hatten sie nicht. Schon gar nicht eines mit Seitenwagen.
 Also stiegen sie in den Mazda der Schwester des Faultiers namens Sherlock. 
 Und sie fuhren los.
 
-Doch blöderweise benötigten die Faultierfreunde, die jeweils zu Besuch kamen um Malzgetränke zu trinken, das Auto ebenfalls.
+Doch blöderweise benötigten die Faultierfreunde, die jeweils zu Besuch kamen, um Malzgetränke zu trinken, das Auto ebenfalls.
 Und blöderweise hatten die Faultierfreunde das Auto schon mit ihren Ferienutensilien gepackt. 
 
 Und so blieb dem Faultier namens Marlow keine andere Möglichkeit, als erstmals nach Spanien zu fahren und dort Malzgetränke zu trinken, Golf zu spielen, im Pool zu liegen und stundenlang in die Wolken zu schauen. Und die Zeit schien dabei zu stoppen. 
@@ -79,13 +79,13 @@ Und so blieb dem Faultier namens Marlow keine andere Möglichkeit, als erstmals 
 Doch nichts war so wie es schien.
 Und die Zeit stoppte nicht.
 Im Gegenteil. Die Zeit verging.
-Und es strichen sieben Jahr ins Land Katalonien.
+Und es strichen sieben Jahre ins Land Katalonien.
 
 Das krause Faultierweibchen wäre dem Faultier namens Marlow in dieser Zeit beinahe entwischt. Beinahe für immer.
 
 Wäre die kleine Faultierfreundin des Faultiers namens Sherlock nicht von Beruf Journalistin gewesen. Und hätte die kleine Faultierfreundin nicht bei der Lokalzeitung gearbeitet. Und dort nicht ein Inserat geschaltet. 
 
-Doch genau das hat sie getan. Die kleineFaultierfreundin veranstaltete einen grossen Wettkampf. Einen grossen Wettkampf für Faultiere. Ob da das sportliche, krause Faultierweibchen da wiederstehen konnte?
+Doch genau das hat sie getan. Die kleine Faultierfreundin veranstaltete einen grossen Wettkampf. Einen grossen Wettkampf für Faultiere. Ob da das sportliche, krause Faultierweibchen da wiederstehen kann?
 
 Das krause Faultierweibchen konnte nicht widerstehen. Es meldete sich an. Der Plan ging auf.
 
@@ -94,18 +94,13 @@ Und, dass an diesem wunderschönen Sommermorgenn auch das Faultier namens Marlow
 Und so kam es, dass die beiden wieder aufeinander treffen sollten. 
 Doch noch wussten sie nichts von diesem schicksalhaften Ereignis.
 
-Für die erste Disziplin fuhren sie ins Game Arcade.
-Um im Game Arcade Tony Hawk zu spielen.
-Auch das Faultier nahmens Sherlock spielte mit.
-Und das Faultier nahmens Sherlock gewann. Es gewann immer.
-Immer wieder gewann es. Bis seine kleine Freundin ihn ermahnte, dass das Faultier nahmens Marlow weiterkommen musste.  Also liess das Faultier namens Sherlock das Faultier namens Marlow gewinnen.
+Für die erste Disziplin fuhren sie ins Game Arcade. Um im Game Arcade Tony Hawk zu spielen. Auch das Faultier nahmens Sherlock spielte mit.
+Und das Faultier nahmens Sherlock gewann. Es gewann immer. Immer wieder gewann es. Bis seine kleine Freundin es ermahnte, dass das Faultier nahmens Marlow weiterkommen muss.  Also liess das Faultier namens Sherlock das Faultier namens Marlow gewinnen.
 
-Denn das Faultier nahmens Marlow sollte ins Finale kommen. Und das krause Faultierweibchen sollte ebenfalls ins Finale kommen. Gemeinsam sollen sie im Finale stehen. So der Plan.
+Denn das Faultier nahmens Marlow sollte ins Finale kommen. Und das krause Faultierweibchen sollte ebenfalls ins Finale kommen. Gemeinsam sollten sie im Finale stehen. So der Plan.
 
 Die zweite Disziplin war töpfern.
-Eine Teilnehmerin töpferte besonders schnell.
-Sie töpferte besonders schön.
-Und sie gewann diese Runde ohne Probleme. 
+Eine Teilnehmerin töpferte besonders schnell. Sie töpferte besonders schön. Und sie gewann diese Runde ohne Probleme. 
 Es war das krause Faultierweibchen. 
 
 Die nächste Runde war am Ursulaweg. Es sollten alle an den Ursulaweg. Doch wo ist dieser Ursulaweg?
