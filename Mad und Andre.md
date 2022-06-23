@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-23T17:22:53+02:00
+modified: 2022-06-23T17:23:57+02:00
 ---
 
 # The Big Sleep - A Sloth-Love-Story
@@ -51,7 +51,7 @@ Denn plötzlich war das krause Faultierweibchen nicht mehr da. Plötzlich war es
 
 Das Faultier namens Marlow wusste nicht genau, was es tun sollte. Also trank es erstmal ein Malzgetränk auf dem Balkon. Auch das Faultier namens Sherlock wusste keinen Rat. Allerdings hatte es gerade Malzgetränke gekauft. Und so setzte auch es sich auch auf den Balkon. 
 
-Erst als die kleine Faultierfreundin dazukam taten sie etwas. Erst als sie ihnen sagte was für faule Faultiere sie doch seien, schmiedeten sie einen Plan.
+Erst als die kleine Faultierfreundin dazukam taten sie etwas. Erst als sie ihnen sagte, was für faule Faultiere sie doch seien, schmiedeten sie einen Plan.
 
 Sie planten das krause Faultierweibchen für das Faultier namens Marlow zu suchen.
 Und sie planten es auch zu finden. Es war ein genialer Plan. Es war eine Schweizer Uhr, so genial. Und es würde ihr wichtigster Kriminalfall werden. Und ihr grösstes Abenteuer. 
