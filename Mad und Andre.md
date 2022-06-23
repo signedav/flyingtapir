@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-23T17:27:28+02:00
+modified: 2022-06-23T17:31:02+02:00
 ---
 
 # The Big Sleep - A Sloth-Love-Story
@@ -107,26 +107,21 @@ Die nächste Runde war am Ursulaweg. Es sollten alle an den Ursulaweg. Doch wo i
 Die Faultiere suchten und suchten. Doch die Faultiere fanden kein Schild für den Ursulaweg. Also fiel diese Runde aus.
 
 Die nächste Disziplin war eine Schlacht. Eine Schneeballschlacht. Das krause Faultier kannte sich mit Bällen aus. Doch das krause Faultier kannte sich mit Schnee nicht aus. Das krause Faultier hatte von Schneebällen keine Ahnung.
-
 Und so wäre es in dieser Runde untergegangen. Untergegangen im Schneeballhagel. Im Schneeballhagel der Gegner. Hätte es nicht Hilfe gekriegt.
-
 Das Faultier namens Sherlock steckte ihm die Schneeballmaschine zu. Ohne dass es bemerkte woher sie kam. Das krause Faultierweibchen hatte plötzlich die Schneeballmaschine in der Hand. Und es schlug zurück. Ihre Gegner sahen nur noch weiss. Schneeweiss.
 
 Die zweitletzte Disziplin war Singen.
 Diese Disziplin war ein Singstarwettbewerb.
 Man musste man Fever von Dusty Springfield singen. 
-
 Als das Faultier namens Marlow zu singen begann, merkte das anfänglich gar niemand. 
-Als es zu singen begann, meinten alle, es sei ihren Magen, der knurrte. Oder ein fernes Donnern der Hochbahn.
-
+Als es zu singen begann, meinten alle, es sei ihr Magen, der knurrte. Oder ein fernes Donnern der Hochbahn.
 Doch als man die Auswertung anschaute war man verblüfft. Als man die Auswertung anschaute war man begeistert. Das Faultier namens Marlow hat die Töne getroffen. Jeden einzelnen Ton.
 
 Es ging an die letzte Runde. Es ging an die alles entscheidende Runde. Die letzte und alles entscheidende Runde war Volleyball. 
 
 Das ausgeschiedene Faultier namens Sherlock und seine kleine Faultierfreundin setzten sich mit Vuvuzela und Soundmaschine ins Publikum. 
 
-Und da passierte es.
-Es passierte, was lange geplant war.
+Und da passierte es. Es passierte, was lange geplant war.
 
 Das Faultierweibchen, das auf den ersten Platz lag, kam mit dem Faultier namens Marlow, das auf dem dritten Platz lag, in ein Team.
 
@@ -143,9 +138,9 @@ Viel lieber wollten sie sich eine Wohnung suchen. Viel lieber wollten sie Pflanz
 Das Faultierweibchen lernte dem Faultier namens Marlow, wie man die Pflanzen richtig pflegt.
 Das Faultierweibchen lernte dem Faultier namens Marlow, wie man kocht.
 Und an den Wänden ihrer Faultierwohnung hing bald Kunst. Und die Regale waren dekoriert mit kleinen Schüsseln und hübschen Utensilien. 
-Es gab keine toten Pflanzen. Und im Kompost lebten tausende von kleinen Würmer. Kleine Würmer und ihre Kinder. Und deren Kindeskinder.
+Es gab keine toten Pflanzen. Und im Kompost lebten tausende von kleinen Würmern. Kleine Würmer und ihre Kinder. Und deren Kindeskinder.
 
-Bald darauf feierten sie ein grosses Faultierfest. Ein Faultierhochzeitsfest mit ihren Faultierfreunden. Ein Fest wo alle zur späten Stunde betrunken vor Glück über die grosse Wiese im Eulachpark nach Hause torkelten.
+Bald darauf feierten sie ein grosses Faultierfest. Ein Faultierhochzeitsfest mit ihren Faultierfreunden. Ein Fest wo alle zur späten Stunde betrunken vor Glück über die grosse Wiese des Eulachparks nach Hause torkelten.
 
 Die zwei nun verheirateten Faultiere leben heute glücklich und zufrieden zusammen ihr Faultierleben.
 
