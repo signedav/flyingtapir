@@ -1,6 +1,6 @@
 ---
 created: 2022-05-25T22:26:29+02:00
-modified: 2022-06-21T22:13:29+02:00
+modified: 2022-06-23T17:22:53+02:00
 ---
 
 # The Big Sleep - A Sloth-Love-Story
@@ -33,7 +33,7 @@ Dies ist aber für diese Geschichte nicht relevant.
 
 Diese zwei Faultiere hatten auch Mitbewohnerinnen.
 
-Eine Mitbewohnerin war eine tote palmenähnliche Pflanze. Eine palmenähnliche Pflanze aus der Ikea. Eine Pflanze, die trotz einigen Wiederbelebungsversuchen tot blieb.
+Eine Mitbewohnerin war eine tote palmenähnliche Pflanze. Aus der Ikea. Eine Pflanze, die trotz einigen Wiederbelebungsversuchen tot blieb.
 
 Die andern Mitbewohnerinnen waren Motten. 
 Kleine Lebensmittelmotten. Und ihre Kinder. Und deren Kindeskinder. Diese waren überhaupt nicht tot. Im Gegenteil.
