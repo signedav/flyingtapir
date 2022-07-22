@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T11:10:09+02:00
+modified: 2022-07-22T13:09:55+02:00
 ---
 
 # Packliste
@@ -15,7 +15,8 @@ X Nachtlicht
 X 10 Windeln
 X Alltagskleider
 X Piji
-X Tiptoi? Batterien
+X Tiptoi
+- Batterien
 
 ## Lynn + Amélie
 X 70 Windeln
