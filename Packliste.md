@@ -1,6 +1,6 @@
 ---
 created: 2022-06-03T21:57:28+02:00
-modified: 2022-06-06T11:10:09+02:00
+modified: 2022-07-22T07:57:28+02:00
 ---
 
 # Packliste
@@ -12,13 +12,13 @@ X Paul und Buk
 X Toniebox (Auto)
 X Restaurantbox neues Zeug
 X Nachtlicht
-X 10 Windeln
+X 2 Windeln
 X Alltagskleider
 X Piji
 X Tiptoi? Batterien
 
 ## Lynn + Amélie
-X 70 Windeln
+X 20 Windeln
 X Alltagskleider
 X Piji
 - Spielsachen
@@ -32,7 +32,6 @@ X Sonnenbrille alle
 X Sonnenhut Kinder/Christine
 X Mütze
 X Wagen
-X Helm
 X Regenkleider Lily
 X Regenkleider C und D
 X Rucksäcke
@@ -43,17 +42,15 @@ X Badehosen
 X Badewindeln
 X ultralight Tüchli
 X Badetüchli
-X Nudel
-X Luftmatraze
 X Flügeli
 X Badeschuhe
-X Pistole
+
 
 ## Schlafen
 X Lampe aus Bad
 
 ## Essen
-- Trinkflaschen
+- Trinkflaschen für Tag und Nacht
 - Brei / Smoothies
 - Lätzchen
 
